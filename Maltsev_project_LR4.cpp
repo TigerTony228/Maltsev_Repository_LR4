@@ -30,12 +30,13 @@
  
  void task1(float& x)
  {
- 
+    cout << "введите вещественное число х: ";
+    proverka(x);
  }
  
  void task2(int& y)
  {
-    cout << "введите натуральное число у: ";
+    cout << "введите натуральное число y: ";
     proverka(y);
  }
  
