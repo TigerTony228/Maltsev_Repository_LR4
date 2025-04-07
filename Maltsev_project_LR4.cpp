@@ -51,7 +51,7 @@
  
  void task4(float&x, int&y)
  {
-    int ans;
+    float ans;
     ans=x - trunc(x);
     cout << ans << endl;
  }
